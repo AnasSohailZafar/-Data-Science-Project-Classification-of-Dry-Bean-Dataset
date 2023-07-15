@@ -23,7 +23,7 @@ In this project, we explore the Dry Bean Dataset and apply different classificat
 - It contains a total of 13,611 instances.
 - The classes in the dataset include DERMASON, SIRA, SEKER, HOROZ, CALI, BARBUNYA, and BOMBAY.
 
-## Installation:
+## Installation
 
 To run this project locally, follow these steps:
 
@@ -38,7 +38,7 @@ pip install pandas scikit-learn matplotlib seaborn
 
 3. Download the dataset (Dry_Bean_Dataset.xlsx) and place it in the project directory.
 
-## Usage:
+## Usage
 ```
 •	Open the Jupyter Notebook or Python script for the classification algorithms.
 
@@ -61,7 +61,7 @@ pip install pandas scikit-learn matplotlib seaborn
 •	Visualize the confusion matrix for model evaluation.
 ```
 
-## Results:
+## Results
 
 The project evaluates the performance of three classification algorithms on the Dry Bean Dataset: Random Forest, SVM, and Decision Tree. The evaluation metrics include precision, recall, F1-score, and accuracy.
 
@@ -73,8 +73,19 @@ Here are the results obtained:
 |SVM	   | 93.33	  |  93.43	 | 93.38	| 93.40	   |
 |DTC	   | 89.27	  |  89.31	 | 89,27	| 92.5	   |
 
+![image](https://github.com/AnasSohailZafar/-Data-Science-Project-Classification-of-Dry-Bean-Dataset/assets/123377727/c48253d2-b51d-481d-95bf-6cd0188e0e3b)
 
-## Contributing:
+Confusion matrix for Random Forest Classifier:
+
+![image](https://github.com/AnasSohailZafar/-Data-Science-Project-Classification-of-Dry-Bean-Dataset/assets/123377727/6fb5d8af-b7ad-4c19-b203-23bf66eb513e)
+
+Confusion Matrix for SVM:
+
+![image](https://github.com/AnasSohailZafar/-Data-Science-Project-Classification-of-Dry-Bean-Dataset/assets/123377727/afff7ff6-86f2-44f1-bafc-f06a0fce4382)
+
+
+
+## Contributing
 
 Contributions to this project are welcome. If you would like to contribute, please follow these steps:
 
@@ -86,12 +97,13 @@ Contributions to this project are welcome. If you would like to contribute, plea
 
 4.	Create a pull request with a descriptive title and explanation of your changes.
 
-## License:
+## License
 
 This project is licensed under the MIT License.
 
-## Contact Information:
-For any questions or suggestions, please feel free to reach out to the project maintainer:
+## Contact Information
+
+For any questions or suggestions, please feel free to reach out :
 
 Name:     Anas Sohail Zafar
 
